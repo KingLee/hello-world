@@ -11,8 +11,8 @@ Does this make a difference?
 * crazy
 * stuff
 
-- You wild
-- son
+- You wild son
+- sonner
 
 / yolo
 / swaglife
